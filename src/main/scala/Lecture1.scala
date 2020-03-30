@@ -4,9 +4,9 @@ object Lecture1 {
   // Solve the problem
   // Check functionality
   // Check edge cases
+  // Not checking for null to avoid code littering
 
-  // Using binary search for index of on an array
-  // Array needs to be sorted
+  // Using binary search to implement indexOf assuming the array is already sorted
   def indexOf(array:Array[Int], value:Int, fromIndex:Int, toIndex:Int):Int = {
     val half = (fromIndex+toIndex) >>> 1 // Also / 2
     val item = array(half)
@@ -17,12 +17,12 @@ object Lecture1 {
     else indexOf(array, value, 0, half)
   }
 
-  // Returns the peak
+  // Find peak using divide and conquer which avoids greedy approach
   def findPeak(array:Array[Int], fromIndex:Int, toIndex:Int):Int = {
     val half = (toIndex+fromIndex) >>> 1
     val item = array(half)
 
-    // Left and right and choose direction
+    // Check Left and right and choose direction
     if (half == 0 || half == (toIndex-1)) {
       // If its the beginning or end of the array return as peak
       item
