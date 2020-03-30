@@ -17,9 +17,34 @@ object Lecture1 {
     else indexOf(array, value, 0, half)
   }
 
+  // Returns the peak
+  def findPeak(array:Array[Int], fromIndex:Int, toIndex:Int):Int = {
+    val half = (toIndex+fromIndex) >>> 1
+    val item = array(half)
+
+    // Left and right and choose direction
+    if (half == 0 || half == (toIndex-1)) {
+      // If its the beginning or end of the array return as peak
+      item
+    } else if (array(half-1) > item) {
+      // Go left
+      findPeak(array, 0, half)
+    } else {
+      // Go right
+      findPeak(array, half, toIndex)
+    }
+  }
+
   def main(args:Array[String]): Unit = {
-    val nums = Array(6,7,4,3,2,1,4,5)
-    println(indexOf(nums, 1, 0, nums.length))
+    val numbers = Array(1,2,9,4,5,6)
+
+    // Binary search
+    println("Binary Search: ")
+    println(indexOf(numbers, 1, 0, numbers.length))
+
+    // Finding a peak
+    println("Finding a Peak: ")
+    println(findPeak(numbers, 0, numbers.length))
   }
 
 }
