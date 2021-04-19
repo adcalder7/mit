@@ -1,7 +1,7 @@
-package interviews.rewardsnetwork.gd.environment
+package interviews_new.rewardsnetwork.gd.environment
 
 import com.typesafe.scalalogging.LazyLogging
-import interviews.rewardsnetwork.gd.engine.SilentException
+import interviews_new.rewardsnetwork.gd.engine.SilentException
 
 case class Day private(temperature: String) { }
 

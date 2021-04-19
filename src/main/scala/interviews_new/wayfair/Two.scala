@@ -1,4 +1,4 @@
-package interviews.wayfair
+package interviews_new.wayfair
 
 import scala.collection.mutable
 

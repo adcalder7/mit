@@ -1,6 +1,7 @@
-package interviews.rewardsnetwork.gd.context
+package interviews_new.rewardsnetwork.gd.context
 
 import interviews.rewardsnetwork.gd.environment._
+import interviews_new.rewardsnetwork.gd.environment.{Day, Dresser, FootGear, HeadGear, House, LegGear, TorsoGear, User}
 
 case class Context(house: House, day: Day)
 

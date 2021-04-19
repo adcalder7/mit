@@ -4,95 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9ce785f-a56a-4fb6-a4ca-2772c9149656" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/MITLectures-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/MITLectures-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/MITLectures.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cd0e2d7e59c08cfafa8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cd0e2d7e59c08cfafa8.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cd0e2d7e59c08cfafa8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2137497a92f2934e927f$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2137497a92f2934e927f.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2137497a92f2934e927f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bd8ef3e37a9c695bb77$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bd8ef3e37a9c695bb77.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bd8ef3e37a9c695bb77.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9234d630caed32eb2c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9234d630caed32eb2c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9234d630caed32eb2c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Lecture1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Util/Util.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Util/Util.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/amazon/amazon.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/amazon/amazon.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/reliaquest/dd.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/reliaquest/dd.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Command.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Command.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Context.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Context.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Rules.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/context/Rules.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/driver/Driver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/driver/Driver.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/engine/Engine.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/engine/Engine.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/engine/EngineException.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/engine/EngineException.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/Day.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/Day.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/Dresser.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/Dresser.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/House.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/House.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/User.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/rewardsnetwork/gd/environment/User.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/wayfair/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/wayfair/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/interviews/wayfair/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/interviews/wayfair/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/datastructures/binarytree/BinarySearchTree.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/datastructures/binarytree/BinarySearchTree.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/educative/DP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/educative/DP.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/educative/HandsOff.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/educative/HandsOff.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/educative/designpatterns/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/educative/designpatterns/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/hackerrank/common.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/hackerrank/common.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/hackerrank/recursion/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/hackerrank/recursion/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/dp/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/dp/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Lesson.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Lesson.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Problems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Problems.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/graph/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/ConsecutiveCharacter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/ConsecutiveCharacter.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/DeleteTreeLeaves.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/DeleteTreeLeaves.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Five.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Five.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Four.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Four.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Seven.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Seven.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Six.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Three.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/numbers/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/numbers/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Problems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Problems.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/Recursion.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/TowerOfHanoi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/recursion/TowerOfHanoi.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/trees/Problems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/trees/Problems.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/adhoc/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/adhoc/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/adhoc/Testing.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/adhoc/Testing.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/scala/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/scala/Solution.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Lecture1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Lecture1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    <list default="true" id="a9ce785f-a56a-4fb6-a4ca-2772c9149656" name="Default" comment="Adding code">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585538593787</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adding code">
+      <created>1618864669130</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618864669130</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -414,21 +334,14 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Adding binary search" />
     <MESSAGE value="Find Peak" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Peak" />
+    <MESSAGE value="Adding code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="290" key="#Notifications" timestamp="1606679839849">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="449" y="290" key="#Notifications/0.25.1440.875@0.25.1440.875" timestamp="1606679839849" />
     <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611533290479">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1611533290479" />
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1605558088445">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1605558088445" />
     <state x="408" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613046172670">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -437,6 +350,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="851" y="284" width="514" height="475" key="#xdebugger.evaluate/0.25.1440.875@0.25.1440.875" timestamp="1611540725058" />
+    <state x="296" y="35" key="CommitChangelistDialog2" timestamp="1618864667422">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="296" y="35" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1618864667422" />
     <state width="493" height="465" key="DebuggerActiveHint" timestamp="1611554522466">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -473,22 +390,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="236" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1612940089311" />
-    <state x="229" y="57" key="SettingsEditor" timestamp="1606680207580">
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1618864670648">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="229" y="57" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1606680207580" />
-    <state width="720" height="437" key="XDebugger.FullValuePopup" timestamp="1609033127706">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="720" height="437" key="XDebugger.FullValuePopup/0.25.1440.875@0.25.1440.875" timestamp="1609033127706" />
-    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606513811317">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1606513811317" />
-    <state x="339" y="81" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608065137799">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="339" y="81" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875@0.25.1440.875" timestamp="1608065137799" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1618864670648" />
     <state x="421" y="218" width="598" height="582" key="find.popup" timestamp="1613698645425">
       <screen x="0" y="25" width="1440" height="875" />
     </state>

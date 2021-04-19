@@ -1,4 +1,4 @@
-package interviews.reliaquest
+package interviews_new.reliaquest
 
 object Solution extends App {
 

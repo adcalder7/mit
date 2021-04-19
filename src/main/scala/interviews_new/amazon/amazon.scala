@@ -1,4 +1,4 @@
-package interviews.amazon
+package interviews_new.amazon
 
 object amazon extends App {
 
