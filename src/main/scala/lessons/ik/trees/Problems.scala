@@ -1,6 +1,4 @@
-package lessons.ik
-
-import scala.collection.mutable.ArrayBuffer
+package lessons.ik.trees
 
 class Node(val data_ : Int){
   var key: Int = data_
@@ -29,6 +27,23 @@ object Problems extends App {
   val tree2 = new Node(7)
   tree2.left = new Node(6)
   tree2.left.left = new Node(5)
+
+  println(isSymetric(tree))
+  def isSymetric(root: TreeNode):Boolean = {
+    if (root == null) return true
+
+    def permute(left:TreeNode, right:TreeNode):Boolean = {
+      if (left == null && right == null) true
+      else if (left == null && right != null || left != null && right == null) false
+      else {
+        left.data == right.data &&
+          permute(left.left_ptr, right.right_ptr) &&
+          permute(right.left_ptr, left.right_ptr)
+      }
+    }
+
+    permute(root.left_ptr, root.right_ptr)
+  }
 
   def traverse1(node:TreeNode):Unit = {
     if (node != null) {
@@ -131,6 +146,11 @@ object Problems extends App {
       else if (left != null) left
       else right
     }
+  }
+
+  def getHeight(tree: TreeNode):Int = {
+    if (tree == null) 0
+    else Math.max(getHeight(tree.left_ptr), getHeight(tree.right_ptr)) + 1
   }
 
 //  printBTtoLL()

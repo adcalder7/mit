@@ -1,4 +1,4 @@
-package gd.environment
+package interviews.rewardsnetwork.gd.environment
 
 case class House private() {
   private var _user:User = null

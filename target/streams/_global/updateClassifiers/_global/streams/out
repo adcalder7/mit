@@ -1,5 +1,3 @@
-[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/releases'; switch to HTTPS or opt-in as ("typesafe-releases" at "http://repo.typesafe.com/typesafe/releases").withAllowInsecureProtocol(true)
-[warn] insecure HTTP request is deprecated 'Patterns(ivyPatterns=Vector(http://repo.typesafe.com/typesafe/ivy-releases/[organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=Vector(http://repo.typesafe.com/typesafe/ivy-releases/[organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false)'; switch to HTTPS or opt-in as Resolver.url("typesafe-ivy-releasez", url(...)).withAllowInsecureProtocol(true)
 [debug] "not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/Users/angel/IdeaProjects/MITLectures/"), "mitlectures")...
 [debug] Done updating ProjectRef(uri("file:/Users/angel/IdeaProjects/MITLectures/"), "mitlectures")

@@ -1,4 +1,4 @@
-package gd.context
+package interviews.rewardsnetwork.gd.context
 
 import com.typesafe.scalalogging.LazyLogging
 

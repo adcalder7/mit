@@ -1,7 +1,7 @@
-package gd.engine
+package interviews.rewardsnetwork.gd.engine
 
+import interviews.rewardsnetwork.gd.context.{Command, Context, Rules}
 import com.typesafe.scalalogging.LazyLogging
-import gd.context.{Command, Context, Rules}
 
 object Engine extends LazyLogging {
 

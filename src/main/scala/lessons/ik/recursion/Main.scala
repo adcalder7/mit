@@ -1,4 +1,4 @@
-package lessons.ik
+package lessons.ik.recursion
 
 object Driver extends App {
   println(Solution.fibonnaciBad(4))

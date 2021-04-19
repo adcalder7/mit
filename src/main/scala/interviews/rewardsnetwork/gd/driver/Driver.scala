@@ -1,6 +1,6 @@
-package gd.driver
+package interviews.rewardsnetwork.gd.driver
 
-import gd.engine.Engine
+import interviews.rewardsnetwork.gd.engine.Engine
 
 object Driver {
   def main(args: Array[String]):Unit = {

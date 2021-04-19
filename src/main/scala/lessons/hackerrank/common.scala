@@ -1,6 +1,6 @@
-package leetcode
+package lessons.hackerrank
 
-import leetcode.util.Util.{ListNode, TreeNode, printLinkedList}
+import Util.Util.{ListNode, TreeNode, printLinkedList}
 
 object main extends App {
   import Solution._

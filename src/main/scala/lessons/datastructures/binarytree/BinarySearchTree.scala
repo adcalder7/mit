@@ -3,7 +3,7 @@ package lessons.datastructures.binarytree
 import scala.collection.mutable
 
 object Use extends App {
-  val bt = new BinaryTree()
+  val bt = new BinarySearchTree()
   val rnd = new scala.util.Random()
 
   bt.insert(44)
@@ -39,7 +39,7 @@ object Use extends App {
   bt.printBFS()
 }
 
-class BinaryTree {
+class BinarySearchTree {
   private var root:Node = null
 
   class Node(var value:Int) {
@@ -47,17 +47,6 @@ class BinaryTree {
     var right:Node = null
 
     override def toString: String = value.toString
-  }
-
-  def buildTreeFromPreOrder(preOrdered:Array[Int]): Unit = {
-    root = null
-    val inOrder = preOrdered.sorted
-
-    def permute(): Unit = {
-      
-    }
-
-    permute()
   }
 
   def insert(v:Int):Unit = {

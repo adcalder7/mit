@@ -1,14 +1,13 @@
-package gd.context
+package interviews.rewardsnetwork.gd.context
 
-import gd.context
-import gd.environment.{Day, Dresser, FootGear, HeadGear, House, LegGear, TorsoGear, User}
+import interviews.rewardsnetwork.gd.environment._
 
 case class Context(house: House, day: Day)
 
 object Context {
 
   // Initialize default context
-  def apply(temperature:String): Context = context.Context(getDefaultHouse(), Day(temperature))
+  def apply(temperature:String): Context = Context(getDefaultHouse(), Day(temperature))
 
   private def getDefaultHouse():House = {
     val user = new User()
