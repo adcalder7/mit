@@ -5,7 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ce785f-a56a-4fb6-a4ca-2772c9149656" name="Default" comment="Adding code">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/ChainOfResponsibility.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Command.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Interpreter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Iterator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Mediator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Memento.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/NullObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Observer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/Strategy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/ValueObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/behavioral/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/AbstractFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/Builder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/FactoryMethod.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/LazyInitialization.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/Prototype.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/SimpleFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/Singleton.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/StaticFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/creational/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Adapter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Bridge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Composite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Decorator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Facade.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Flyweight.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/Proxy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/structural/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/designpatterns/zexamples/tictactoe/Driver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/numbers/Testing.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/study_one/BinarySearch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/study_one/Scratch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalalang/Solution2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Lecture1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/leetcode/Lecture1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/datastructures/binarytree/BinarySearchTree.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/datastructures/binarytree/BinarySearchTree.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/educative/designpatterns/Solution.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Seven.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Seven.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lessons/ik/mockinterviews/Six.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lessons/scala/Solution.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalalang/Solution.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +93,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Object" />
         <option value="Class" />
+        <option value="Scala Object" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -88,14 +132,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/scala/Interviews/rewardsnetwork" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scalalang" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/appdesign/structural" />
+      <recent name="$PROJECT_DIR$/src/main/scala/appdesign/reational" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -103,13 +157,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="DP" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.educative.DP" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.leetcode.study_one.BinarySearch" />
       <module name="Lectures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.educative.*" />
+          <option name="PATTERN" value="lessons.leetcode.study_one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,27 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.leetcode.adhoc.Question" />
+    <configuration name="Scratch" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.leetcode.study_one.Scratch" />
       <module name="Lectures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.leetcode.adhoc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Result" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.leetcode.adhoc.Result" />
-      <module name="Lectures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.leetcode.adhoc.*" />
+          <option name="PATTERN" value="lessons.leetcode.study_one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +186,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.educative.designpatterns.Solution" />
+      <option name="MAIN_CLASS_NAME" value="scalalang.Solution" />
       <module name="Lectures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.educative.designpatterns.*" />
+          <option name="PATTERN" value="scalalang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +200,26 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.leetcode.adhoc.Solution" />
+      <option name="MAIN_CLASS_NAME" value="interviews.reliaquest.Solution" />
       <module name="Lectures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.leetcode.adhoc.*" />
+          <option name="PATTERN" value="interviews.reliaquest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalalang.Solution2" />
+      <module name="Lectures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalalang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Question" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.DP" />
-        <item itemvalue="Application.Result" />
+        <item itemvalue="Application.Scratch" />
+        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -338,84 +392,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611533290479">
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1694382996021">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1611533290479" />
-    <state x="408" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613046172670">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="408" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875@0.25.1440.875" timestamp="1613046172670" />
-    <state x="851" y="284" width="514" height="475" key="#xdebugger.evaluate" timestamp="1611540725058">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="851" y="284" width="514" height="475" key="#xdebugger.evaluate/0.25.1440.875@0.25.1440.875" timestamp="1611540725058" />
-    <state x="296" y="35" key="CommitChangelistDialog2" timestamp="1618864667422">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="296" y="35" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1618864667422" />
-    <state width="493" height="465" key="DebuggerActiveHint" timestamp="1611554522466">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="493" height="465" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1611554522466" />
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1613698647899">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1613698647899" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1613698647898">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1613698647898" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1613698647898">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1613698647898" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1613698647899">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1613698647899" />
-    <state width="1398" height="236" key="GridCell.Tab.1.bottom" timestamp="1612940089311">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="236" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612940089311" />
-    <state width="1398" height="236" key="GridCell.Tab.1.center" timestamp="1612940089310">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="236" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1612940089310" />
-    <state width="1398" height="236" key="GridCell.Tab.1.left" timestamp="1612940089310">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="236" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1612940089310" />
-    <state width="1398" height="236" key="GridCell.Tab.1.right" timestamp="1612940089311">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="1398" height="236" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1612940089311" />
-    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1618864670648">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1618864670648" />
-    <state x="421" y="218" width="598" height="582" key="find.popup" timestamp="1613698645425">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="421" y="218" width="598" height="582" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1613698645425" />
-    <state x="319" y="145" key="new project wizard" timestamp="1613996568639">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="319" y="145" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1613996568639" />
-    <state x="385" y="215" width="670" height="675" key="search.everywhere.popup" timestamp="1612195192346">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="385" y="215" width="670" height="675" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1612195192346" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/lessons/hackerrank/common.scala</url>
-          <line>479</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1694382996021" />
   </component>
 </project>

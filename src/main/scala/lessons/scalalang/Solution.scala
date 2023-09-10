@@ -1,4 +1,4 @@
-package lessons.scala
+package lessons.scalalang
 
 object Solution extends App {
 
@@ -42,9 +42,9 @@ object Solution extends App {
     val symbols = Array("<", "-", ">")
     val counts = Array(2, 10, 2)
     val pairs = symbols.zip(counts)
-
-
   }
+
+  println("here")
 
   practice()
 

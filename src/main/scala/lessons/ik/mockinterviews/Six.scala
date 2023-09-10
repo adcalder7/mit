@@ -71,12 +71,17 @@ Map(2, 1)
 
 object Solution extends App {
 
+  val x:Option[String] = Some("pepe")
+  println(x.get)
+
   println(calculate(7, Array(2,3,7)))
 
   def calculate(x:Int, s:Array[Int]):Int = {
     import collection.mutable.Map
 
     val cache = Map[Int, Int]()
+
+    val it = cache.last
 
     def permute(sum:Int = x): Int = {
       if (cache.contains(sum)) return cache(sum)
@@ -93,6 +98,10 @@ object Solution extends App {
     }
 
     permute()
+  }
+
+  object sdf {
+    def dsaf = "dsaf"
   }
 
 }

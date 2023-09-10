@@ -1,8 +1,11 @@
 package lessons.ik.mockinterviews
 
-object Seven {
+object Seven extends App {
+  println("ABC".reverse)
 
+  val sb = StringBuilder.newBuilder
 }
+
 /* Image Replication
  * =================
  *
